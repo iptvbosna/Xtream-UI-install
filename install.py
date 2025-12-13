@@ -338,7 +338,7 @@ if __name__ == "__main__":
         libzip = "libzip5"
     index = rPackages.index("mariadb-server")
     rPackages.insert(index, libzip)
-    printc("XtreamUI 22f Ubuntu %s - Mod sehara" % rVersion, col.GREEN, 2)
+    printc("XtreamUI 22f Ubuntu %s - Mod SEHARA" % rVersion, col.GREEN, 2)
     print(" ")
     rType = input("  Installation Type [MAIN, LB, UPDATE]: ")
     print(" ")
