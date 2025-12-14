@@ -1,3 +1,4 @@
 main_xui_sehara.zip filter=lfs diff=lfs merge=lfs -text
 sub_xui_sehara.zip filter=lfs diff=lfs merge=lfs -text
 update_33 filter=lfs diff=lfs merge=lfs -text
+update_33.zip filter=lfs diff=lfs merge=lfs -text
